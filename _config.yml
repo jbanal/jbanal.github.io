@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "EXCITON ENGINEERING"
+title                    : "Exciton Engineering"
 title_separator          : "-"
 name                     : &name "James Banal"
 description              : &description "Personal academic website of James Banal"
